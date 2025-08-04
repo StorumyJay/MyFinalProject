@@ -1,18 +1,13 @@
-### this
- <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/e9fd15be-cae4-4a7c-87ae-ee3bc2b7a1f6" />
- ###that
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/f8dccc0d-35f9-48fd-8fef-dcd8fd86c36a" />
+<img width="409" height="780" alt="Image" src="https://github.com/user-attachments/assets/b0554038-3c31-4414-a020-4630249fe426" />
 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/e7a77e02-3794-40f6-b466-7f6a0146ad3d" />
+<img width="396" height="783" alt="Image" src="https://github.com/user-attachments/assets/83b453e0-8156-4f08-8358-c990eef1ae1c" />
 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/5bef3e75-09d3-4932-ac34-a53936eb026a" />
+<img width="422" height="778" alt="Image" src="https://github.com/user-attachments/assets/e19159c9-4a58-45f6-a5ce-2115eebed5e3" />
 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/c33e840d-5e3a-42d8-b9a3-d952c5582494" />
+<img width="389" height="782" alt="Image" src="https://github.com/user-attachments/assets/eb93f367-e8e0-4892-9f36-aaa47a278d24" />
 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/47eefdd0-856b-4877-a0a7-8736ec41131e" />
+<img width="370" height="778" alt="Image" src="https://github.com/user-attachments/assets/40f9cbce-26d5-4449-86b4-bc536463c796" />
 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/3e36372c-1c76-485a-9562-08bfc6a59ccd" />
+<img width="397" height="790" alt="Image" src="https://github.com/user-attachments/assets/4139331e-bff3-43e4-a46c-eff4a6ee8544" />
 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/f170e70a-7fbc-4c46-9c6c-4a8492be586a" />
-
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/30ffe530-c89c-4151-9fda-57c2b8e8393a" />
+<img width="404" height="792" alt="Image" src="https://github.com/user-attachments/assets/cce4bf49-1b2d-40d0-adc0-56dbb07ec21d" />
